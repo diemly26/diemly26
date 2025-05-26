@@ -1,13 +1,7 @@
 # 👩‍💻 Le Tran Diem Ly
 
-🎓 I’m an IT student passionate about creating solutions that blend technology with real-world impact.  
-📍 Currently pursuing a degree in Information Technology, with a focus on Web Development, Data Analytics,...  
-🇯🇵 Dreaming of contributing to Japan's tech industry while experiencing its culture and natural beauty.  
-
----
-
 ## 🚀 Tech Stack:
-- 💻 Programming: Java, Python, C/C++, C#
+- 💻 Programming: Java, Python, C/C++, C#, PHP
 - 🌐 Web: HTML, CSS, JavaScript, ReactJS, Spring Boot
 - 💾 Database: MySQL
 - ☁️ Others: Git, GitHub, Firebase
@@ -22,8 +16,5 @@
 ## 📈 GitHub Stats:
 ![Ly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diemly26&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diemly26&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=diemly26&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
----
-
-## 📫 Contact Me:
-- 📧 Email: letrandiemly26@gmail.com
