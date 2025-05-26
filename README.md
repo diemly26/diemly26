@@ -20,8 +20,8 @@
 ---
 
 ## 📈 GitHub Stats:
-![Ly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=letrandiemly&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letrandiemly&layout=compact&theme=radical)
+![Ly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diemly26&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diemly26&layout=compact&theme=radical)
 
 ---
 
