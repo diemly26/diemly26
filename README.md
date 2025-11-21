@@ -1,7 +1,5 @@
 # 👩‍💻 Le Tran Diem Ly
 
-<p align="center"><i>"Where there's a will, there's a way."</i></p>
-
 ## 🚀 Tech Stack:
 - 💻 Programming: Java, Python, C/C++, C#, PHP
 - 🌐 Web: HTML, CSS, JavaScript, ReactJS, Spring Boot
