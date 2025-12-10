@@ -14,7 +14,7 @@
 ---
 
 ## 📈 GitHub Stats:
-![Ly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diemly26&show_icons=true&theme=radical)
+![Ly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diemly26&show_icons=true&theme=radical&count_private=true&token=diemly26)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diemly26&layout=compact&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=diemly26&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
